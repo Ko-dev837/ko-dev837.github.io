@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kodev837.donjonarena",
+        "sha256_cert_fingerprints": ["55:82:32:6C:3E:2F:2E:4A:A3:81:3F:B5:1F:27:42:D4:0D:A3:8C:93:08:7D:E5:CE:9C:CE:76:0F:97:12:83:67"]
+      }
+    }]
+
